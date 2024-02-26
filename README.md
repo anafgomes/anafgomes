@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Olá, eu sou Ana Gomes!
 
-<!--
-**anafgomes/anafgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre Mim
+- 📚 Discente de Sistemas de Informação
+- 💻 Aprendendo e explorando HTML, CSS e JavaScript
 
-Here are some ideas to get you started:
+## 🚀 O Que Estou Fazendo
+- 🌐 Desenvolvendo habilidades em desenvolvimento web
+- 🤖 Explorando novas tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=anafgomes&show_icons=true&theme=radical)
+
+## 🤝 Vamos Conectar?
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anaflaviassg)
+- 📧 [E-mail](mailto:anaflaviassg@gmail.com)
+
+## 🌟 Projetos Destacados
+- [Projeto 1](https://github.com/anafgomes/Museu-Municipal-Francisco-Coelho))
+
+## 📌 Destaque
+Este README está em constante evolução. Sinta-se à vontade para dar sugestões e contribuir!
