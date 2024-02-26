@@ -16,7 +16,7 @@
 - 📧 [E-mail](mailto:anaflaviassg@gmail.com)
 
 ## 🌟 Projetos Destacados
-- [Projeto 1](https://github.com/anafgomes/Museu-Municipal-Francisco-Coelho))
+- [Projeto 1](https://github.com/anafgomes/Museu-Municipal-Francisco-Coelho)
 
 ## 📌 Destaque
 Este README está em constante evolução. Sinta-se à vontade para dar sugestões e contribuir!
