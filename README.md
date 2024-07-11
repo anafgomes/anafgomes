@@ -30,5 +30,5 @@
 </div>
 <br>
 <div align="center">
-![Snake animation](https://github.com/anafgomes/anafgomes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anafgomes/anafgomes/blob/output/github-contribution-grid-snake.svg)
 </div>
